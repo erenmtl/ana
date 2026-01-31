@@ -1,0 +1,5 @@
+{
+  "name": "GameFix - Oyun Hata Çözücü",
+  "description": "Bilgisayar ve mobil oyunlardaki teknik sorunları çözmek için asistan. Oyun seçimi yapın, hatayı girin ve anında çözüm alın.",
+  "requestFramePermissions": []
+}
